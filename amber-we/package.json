@@ -2,7 +2,7 @@
   "name": "amber-we",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lancastmx.github.io/webEjemploConta/build",
+  "homepage": "https://lancastmx.github.io/AMBER-WE/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
